@@ -17,8 +17,8 @@
 
 /* Begin PBXFileReference section */
 		308F30C11F7FA89F0084A333 /* AnimationKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationKit.swift; sourceTree = "<group>"; };
-		308F30C31F7FAD040084A333 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		308F30C41F7FADAD0084A333 /* animationkit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = animationkit.png; sourceTree = "<group>"; };
+		308F30C51F7FB61A0084A333 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		30C3910B1F7F607900FC35A5 /* AnimationKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30C3910E1F7F607900FC35A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		30C391101F7F607900FC35A5 /* AnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationViewController.swift; sourceTree = "<group>"; };
@@ -44,6 +44,7 @@
 			children = (
 				30C3910D1F7F607900FC35A5 /* AnimationKit */,
 				30C3910C1F7F607900FC35A5 /* Products */,
+				308F30C51F7FB61A0084A333 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -66,7 +67,6 @@
 				30C391171F7F607900FC35A5 /* LaunchScreen.storyboard */,
 				30C3911A1F7F607900FC35A5 /* Info.plist */,
 				308F30C41F7FADAD0084A333 /* animationkit.png */,
-				308F30C31F7FAD040084A333 /* README.md */,
 			);
 			path = AnimationKit;
 			sourceTree = "<group>";

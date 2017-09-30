@@ -16,4 +16,4 @@ sender.zoomAnimation(withDuration: 1.0, withZoomLevel: 0.5, complition: nil)
 }
 ```
 
-![alt tag](~/master/animationkit.png)
+![alt tag](https://github.com/pratik-123/AnimationKit/blob/master/AnimationKit/animationkit.png)
